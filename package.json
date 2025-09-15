@@ -1,0 +1,13 @@
+{
+  "name": "use-online-status-rit",
+  "version": "1.0.0",
+  "description": "A lightweight React hook to detect online/offline status with callback and last online tracking.",
+  "main": "useOnlineStatusRit.js",
+  "type": "module",
+  "keywords": ["react", "hooks", "online", "status", "rit"],
+  "author": "Ritesh Jha",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  }
+}
